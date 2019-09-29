@@ -16,7 +16,7 @@
 </content>
 <group>
 <chapter>ブラウザ
-<attribute>-1,1,0
+<attribute>-1,0,0
 <content>
 {\rtf1\ansi\ansicpg932\deff0\deflang1033\deflangfe1041{\fonttbl{\f0\fnil\fcharset128 \'82\'6c\'82\'72 \'82\'6f\'83\'53\'83\'56\'83\'62\'83\'4e;}}
 \viewkind4\uc1\pard\lang1041\b\f0\fs22\'83\'75\'83\'89\'83\'45\'83\'55\par
@@ -26,7 +26,7 @@
 }
 </content>
 <chapter>メールアドレス
-<attribute>-1,1,0
+<attribute>-1,0,0
 <content>
 {\rtf1\ansi\ansicpg932\deff0\deflang1033\deflangfe1041{\fonttbl{\f0\fnil\fcharset128 \'82\'6c\'82\'72 \'82\'6f\'83\'53\'83\'56\'83\'62\'83\'4e;}}
 \viewkind4\uc1\pard\lang1041\b\f0\fs22\'83\'81\'81\'5b\'83\'8b\'83\'41\'83\'68\'83\'8c\'83\'58\par
@@ -36,7 +36,7 @@
 }
 </content>
 <chapter>チャットツール
-<attribute>-1,1,0
+<attribute>-1,0,0
 <content>
 {\rtf1\ansi\ansicpg932\deff0\deflang1033\deflangfe1041{\fonttbl{\f0\fnil\fcharset128 \'82\'6c\'82\'72 \'82\'6f\'83\'53\'83\'56\'83\'62\'83\'4e;}}
 \viewkind4\uc1\pard\lang1041\b\f0\fs22\'83\'60\'83\'83\'83\'62\'83\'67\'83\'63\'81\'5b\'83\'8b\b0\par
@@ -47,7 +47,7 @@
 }
 </content>
 <chapter>クラウドストレージ
-<attribute>-1,1,0
+<attribute>-1,0,0
 <content>
 {\rtf1\ansi\ansicpg932\deff0\deflang1033\deflangfe1041{\fonttbl{\f0\fnil\fcharset128 \'82\'6c\'82\'72 \'82\'6f\'83\'53\'83\'56\'83\'62\'83\'4e;}}
 \viewkind4\uc1\pard\lang1041\b\f0\fs22\'83\'4e\'83\'89\'83\'45\'83\'68\'83\'58\'83\'67\'83\'8c\'81\'5b\'83\'57\par
@@ -62,7 +62,7 @@ Google Document, Google Sheets\'82\'c8\'82\'c7\'82\'cc\par
 }
 </content>
 <chapter>アウトラインエディタ nanatree
-<attribute>-1,1,0
+<attribute>-1,0,0
 <content>
 {\rtf1\ansi\ansicpg932\deff0\deflang1033\deflangfe1041{\fonttbl{\f0\fnil\fcharset128 \'82\'6c\'82\'72 \'82\'6f\'83\'53\'83\'56\'83\'62\'83\'4e;}}
 \viewkind4\uc1\pard\lang1041\b\f0\fs22\'83\'41\'83\'45\'83\'67\'83\'89\'83\'43\'83\'93\'83\'47\'83\'66\'83\'42\'83\'5e nanatree\par
@@ -72,21 +72,21 @@ Google Document, Google Sheets\'82\'c8\'82\'c7\'82\'cc\par
 }
 </content>
 <chapter>Visual Studio Community 2019
-<attribute>-1,1,0
+<attribute>-1,0,0
 <content>
 {\rtf1\ansi\ansicpg932\deff0\deflang1033\deflangfe1041{\fonttbl{\f0\fnil\fcharset128 \'82\'6c\'82\'72 \'82\'6f\'83\'53\'83\'56\'83\'62\'83\'4e;}}
 \viewkind4\uc1\pard\lang1041\f0\fs22 Visual Studio Community 2019\par
 }
 </content>
 <chapter>UnityHub, Unity2019
-<attribute>-1,1,0
+<attribute>-1,0,0
 <content>
 {\rtf1\ansi\ansicpg932\deff0\deflang1033\deflangfe1041{\fonttbl{\f0\fnil\fcharset128 \'82\'6c\'82\'72 \'82\'6f\'83\'53\'83\'56\'83\'62\'83\'4e;}}
 \viewkind4\uc1\pard\lang1041\f0\fs22 UnityHub, Unity2019\par
 }
 </content>
 <chapter>Gitクライアントソフト
-<attribute>-1,1,0
+<attribute>-1,0,0
 <content>
 {\rtf1\ansi\ansicpg932\deff0\deflang1033\deflangfe1041{\fonttbl{\f0\fnil\fcharset128 \'82\'6c\'82\'72 \'82\'6f\'83\'53\'83\'56\'83\'62\'83\'4e;}}
 \viewkind4\uc1\pard\lang1041\b\f0\fs22 Git\par
@@ -102,7 +102,7 @@ Google Document, Google Sheets\'82\'c8\'82\'c7\'82\'cc\par
 }
 </content>
 <chapter>GitHub
-<attribute>-1,1,0
+<attribute>-1,0,0
 <content>
 {\rtf1\ansi\ansicpg932\deff0\deflang1033\deflangfe1041{\fonttbl{\f0\fnil\fcharset128 \'82\'6c\'82\'72 \'82\'6f\'83\'53\'83\'56\'83\'62\'83\'4e;}}
 \viewkind4\uc1\pard\lang1041\b\f0\fs22 GitHub\b0\par
@@ -110,7 +110,7 @@ Google Document, Google Sheets\'82\'c8\'82\'c7\'82\'cc\par
 }
 </content>
 <chapter>WinMerge
-<attribute>-1,1,0
+<attribute>-1,0,0
 <content>
 {\rtf1\ansi\ansicpg932\deff0\deflang1033\deflangfe1041{\fonttbl{\f0\fnil\fcharset128 \'82\'6c\'82\'72 \'82\'6f\'83\'53\'83\'56\'83\'62\'83\'4e;}}
 \viewkind4\uc1\pard\lang1041\b\f0\fs22 WinMerge\b0\par
@@ -121,7 +121,7 @@ Google Document, Google Sheets\'82\'c8\'82\'c7\'82\'cc\par
 }
 </content>
 <chapter>pdfリーダー
-<attribute>-1,1,0
+<attribute>-1,0,0
 <content>
 {\rtf1\ansi\ansicpg932\deff0\deflang1033\deflangfe1041{\fonttbl{\f0\fnil\fcharset128 \'82\'6c\'82\'72 \'82\'6f\'83\'53\'83\'56\'83\'62\'83\'4e;}}
 \viewkind4\uc1\pard\lang1041\b\f0\fs22 pdf\'83\'8a\'81\'5b\'83\'5f\'81\'5b\b0\par
@@ -129,7 +129,7 @@ Google Document, Google Sheets\'82\'c8\'82\'c7\'82\'cc\par
 }
 </content>
 <chapter>Docker
-<attribute>-1,1,0
+<attribute>-1,0,0
 <content>
 {\rtf1\ansi\ansicpg932\deff0\deflang1033\deflangfe1041{\fonttbl{\f0\fnil\fcharset128 \'82\'6c\'82\'72 \'82\'6f\'83\'53\'83\'56\'83\'62\'83\'4e;}}
 \viewkind4\uc1\pard\lang1041\b\f0\fs22 Docker\par
@@ -137,7 +137,7 @@ Google Document, Google Sheets\'82\'c8\'82\'c7\'82\'cc\par
 }
 </content>
 <chapter>その他
-<attribute>-1,1,0
+<attribute>-1,0,0
 <content>
 {\rtf1\ansi\ansicpg932\deff0\deflang1033\deflangfe1041{\fonttbl{\f0\fnil\fcharset128 \'82\'6c\'82\'72 \'82\'6f\'83\'53\'83\'56\'83\'62\'83\'4e;}}
 \viewkind4\uc1\pard\lang1041\f0\fs22\par
@@ -150,7 +150,7 @@ Google Document, Google Sheets\'82\'c8\'82\'c7\'82\'cc\par
 </content>
 <group>
 <chapter>2.検索アルゴリズムを勉強する授業
-<attribute>-1,1,0
+<attribute>-1,0,0
 <content>
 {\rtf1\ansi\ansicpg932\deff0\deflang1033\deflangfe1041{\fonttbl{\f0\fnil\fcharset128 \'82\'6c\'82\'72 \'82\'6f\'83\'53\'83\'56\'83\'62\'83\'4e;}}
 \viewkind4\uc1\pard\lang1041\f0\fs22\'8e\'f6\'8b\'c6\'93\'e0\'97\'65\par
@@ -159,7 +159,7 @@ Visual Stduio 2019\'82\'c5 C# \'83\'76\'83\'8d\'83\'57\'83\'46\'83\'4e\'83\'67\'
 }
 </content>
 <chapter>3.ソートアルゴリズムを勉強する授業
-<attribute>-1,1,0
+<attribute>-1,0,0
 <content>
 {\rtf1\ansi\ansicpg932\deff0\deflang1033\deflangfe1041{\fonttbl{\f0\fnil\fcharset128 \'82\'6c\'82\'72 \'82\'6f\'83\'53\'83\'56\'83\'62\'83\'4e;}}
 \viewkind4\uc1\pard\lang1041\f0\fs22\'8e\'f6\'8b\'c6\'93\'e0\'97\'65\par
@@ -171,7 +171,7 @@ Visual Stduio 2019\'82\'c5 C# \'83\'76\'83\'8d\'83\'57\'83\'46\'83\'4e\'83\'67\'
 }
 </content>
 <chapter>4.各種アルゴリズム
-<attribute>-1,1,0
+<attribute>-1,0,0
 <content>
 {\rtf1\ansi\ansicpg932\deff0\deflang1033\deflangfe1041{\fonttbl{\f0\fnil\fcharset128 \'82\'6c\'82\'72 \'82\'6f\'83\'53\'83\'56\'83\'62\'83\'4e;}}
 \viewkind4\uc1\pard\lang1041\f0\fs28\'8e\'f6\'8b\'c6\'93\'e0\'97\'65\par
@@ -185,7 +185,7 @@ Generic \'82\'f0\'8e\'67\'97\'70\'82\'b5\'82\'c4\'82\'dd\'82\'e6\'82\'a4\par
 }
 </content>
 <chapter>5.クラスの設計方法と取り入れた授業
-<attribute>-1,1,0
+<attribute>-1,0,0
 <content>
 {\rtf1\ansi\ansicpg932\deff0\deflang1033\deflangfe1041{\fonttbl{\f0\fnil\fcharset128 \'82\'6c\'82\'72 \'82\'6f\'83\'53\'83\'56\'83\'62\'83\'4e;}}
 \viewkind4\uc1\pard\lang1041\f0\fs22\'8e\'f6\'8b\'c6\'93\'e0\'97\'65\par
@@ -194,7 +194,7 @@ Generic \'82\'f0\'8e\'67\'97\'70\'82\'b5\'82\'c4\'82\'dd\'82\'e6\'82\'a4\par
 }
 </content>
 <chapter>6.Unity その１
-<attribute>-1,1,0
+<attribute>-1,0,0
 <content>
 {\rtf1\ansi\ansicpg932\deff0\deflang1033\deflangfe1041{\fonttbl{\f0\fnil\fcharset128 \'82\'6c\'82\'72 \'82\'6f\'83\'53\'83\'56\'83\'62\'83\'4e;}}
 \viewkind4\uc1\pard\lang1041\f0\fs22\'8e\'f6\'8b\'c6\'93\'e0\'97\'65\par
@@ -203,7 +203,7 @@ Generic \'82\'f0\'8e\'67\'97\'70\'82\'b5\'82\'c4\'82\'dd\'82\'e6\'82\'a4\par
 }
 </content>
 <chapter>7.Unity その２
-<attribute>-1,1,0
+<attribute>-1,0,0
 <content>
 {\rtf1\ansi\ansicpg932\deff0\deflang1033\deflangfe1041{\fonttbl{\f0\fnil\fcharset128 \'82\'6c\'82\'72 \'82\'6f\'83\'53\'83\'56\'83\'62\'83\'4e;}}
 \viewkind4\uc1\pard\lang1041\f0\fs22\'8e\'f6\'8b\'c6\'93\'e0\'97\'65\par
@@ -212,7 +212,7 @@ Generic \'82\'f0\'8e\'67\'97\'70\'82\'b5\'82\'c4\'82\'dd\'82\'e6\'82\'a4\par
 }
 </content>
 <chapter>8.最短経路探索のアルゴリズムの課題
-<attribute>-1,1,0
+<attribute>-1,0,0
 <content>
 {\rtf1\ansi\ansicpg932\deff0\deflang1033\deflangfe1041{\fonttbl{\f0\fnil\fcharset128 \'82\'6c\'82\'72 \'82\'6f\'83\'53\'83\'56\'83\'62\'83\'4e;}}
 \viewkind4\uc1\pard\lang1041\f0\fs22\'8e\'f6\'8b\'c6\'93\'e0\'97\'65\par
@@ -228,7 +228,7 @@ TileMap\'82\'cc\'8b\'40\'94\'5c\'82\'f0\'8e\'67\'82\'c1\'82\'c4\'82\'51D\'83\'7d
 }
 </content>
 <chapter>9.Android開発環境構築とデバッグ方法について
-<attribute>-1,1,0
+<attribute>-1,0,0
 <content>
 {\rtf1\ansi\ansicpg932\deff0\deflang1033\deflangfe1041{\fonttbl{\f0\fnil\fcharset128 \'82\'6c\'82\'72 \'82\'6f\'83\'53\'83\'56\'83\'62\'83\'4e;}}
 \viewkind4\uc1\pard\lang1041\b\f0\fs22\'8e\'f6\'8b\'c6\'93\'e0\'97\'65\b0\par
@@ -249,7 +249,7 @@ Unity\'82\'c5apk\'83\'72\'83\'8b\'83\'68\par
 }
 </content>
 <chapter>10.サーバーの構築とUnityとの通信の勉強
-<attribute>-1,1,0
+<attribute>-1,0,0
 <content>
 {\rtf1\ansi\ansicpg932\deff0\deflang1033\deflangfe1041{\fonttbl{\f0\fnil\fcharset128 \'82\'6c\'82\'72 \'82\'6f\'83\'53\'83\'56\'83\'62\'83\'4e;}}
 \viewkind4\uc1\pard\lang1041\f0\fs22\'8e\'f6\'8b\'c6\'93\'e0\'97\'65\par
@@ -280,7 +280,7 @@ Unity\'82\'c5UnityWebRequest\'82\'f0\'8e\'67\'97\'70\'82\'b5\'82\'c4\'83\'54\'81
 </content>
 <group>
 <chapter>11.コマンドライン実行ファイルの作成
-<attribute>-1,1,0
+<attribute>-1,0,0
 <content>
 {\rtf1\ansi\ansicpg932\deff0\deflang1033\deflangfe1041{\fonttbl{\f0\fnil\fcharset128 \'82\'6c\'82\'72 \'82\'6f\'83\'53\'83\'56\'83\'62\'83\'4e;}}
 \viewkind4\uc1\pard\lang1041\f0\fs22\'8e\'f6\'8b\'c6\'93\'e0\'97\'65\par
@@ -291,7 +291,7 @@ Visual Studio 2019\'82\'c5\'83\'52\'83\'7d\'83\'93\'83\'68\'83\'89\'83\'43\'83\'
 }
 </content>
 <chapter>12.WinMainからのウインドウプログラム
-<attribute>-1,1,0
+<attribute>-1,0,0
 <content>
 {\rtf1\ansi\ansicpg932\deff0\deflang1033\deflangfe1041{\fonttbl{\f0\fnil\fcharset128 \'82\'6c\'82\'72 \'82\'6f\'83\'53\'83\'56\'83\'62\'83\'4e;}}
 \viewkind4\uc1\pard\lang1041\f0\fs22 WinMain\'82\'a9\'82\'e7\'8b\'4c\'8f\'71\'82\'b7\'82\'e9\'83\'41\'83\'76\'83\'8a\'83\'50\'81\'5b\'83\'56\'83\'87\'83\'93\'82\'cc\'98\'62\par
@@ -301,7 +301,7 @@ WinMain\'82\'c5Windows\'83\'76\'83\'8d\'83\'4f\'83\'89\'83\'80\'82\'f0\'8d\'ec\'
 }
 </content>
 <chapter>13.DxLibでゲーム作成
-<attribute>-1,1,0
+<attribute>-1,0,0
 <content>
 {\rtf1\ansi\ansicpg932\deff0\deflang1033\deflangfe1041{\fonttbl{\f0\fnil\fcharset128 \'82\'6c\'82\'72 \'82\'6f\'83\'53\'83\'56\'83\'62\'83\'4e;}}
 \viewkind4\uc1\pard\lang1041\f0\fs22\'8e\'f6\'8b\'c6\'93\'e0\'97\'65\par
@@ -310,7 +310,7 @@ WinMain\'82\'c5Windows\'83\'76\'83\'8d\'83\'4f\'83\'89\'83\'80\'82\'f0\'8d\'ec\'
 </content>
 </group>
 <chapter>機械語入門
-<attribute>-1,1,1
+<attribute>-1,1,0
 <content>
 {\rtf1\ansi\ansicpg932\deff0\deflang1033\deflangfe1041{\fonttbl{\f0\fnil\fcharset128 \'82\'6c\'82\'72 \'82\'6f\'83\'53\'83\'56\'83\'62\'83\'4e;}}
 \viewkind4\uc1\pard\lang1041\f0\fs22\'8e\'f6\'8b\'c6\'93\'e0\'97\'65\par
@@ -356,13 +356,15 @@ Q)\'83\'81\'83\'82\'83\'8a\'81\'5b\'82\'f0\'90\'7d\'89\'f0\'82\'b7\'82\'e9\'97\'
 </content>
 <group>
 <chapter>文字コード
-<attribute>-1,1,0
+<attribute>-1,1,1
 <content>
 {\rtf1\ansi\ansicpg932\deff0\deflang1033\deflangfe1041{\fonttbl{\f0\fnil\fcharset128 \'82\'6c\'82\'72 \'82\'6f\'83\'53\'83\'56\'83\'62\'83\'4e;}}
 \viewkind4\uc1\pard\lang1041\f0\fs22\'8c\'bb\'8d\'dd\'97\'6c\'81\'58\'82\'c8\'83\'65\'83\'4c\'83\'58\'83\'67\'83\'74\'83\'40\'83\'43\'83\'8b\'82\'f0\'95\'db\'91\'b6\'82\'b7\'82\'e9\'8f\'ea\'8d\'87\'82\'cc\'95\'b6\'8e\'9a\'83\'52\'81\'5b\'83\'68\'82\'cdUTF-8\'82\'f0\'8e\'67\'97\'70\'82\'b5\'82\'c4\'82\'a2\'82\'e9\'82\'c6\'8e\'76\'82\'a2\'82\'dc\'82\'b7\'81\'42C/C++\'81\'41C#\'8c\'be\'8c\'ea\'82\'cc\'83\'5c\'81\'5b\'83\'58\'83\'52\'81\'5b\'83\'68\'82\'f0\'8b\'4c\'8f\'71\'82\'b7\'82\'e9\'8e\'9e\'82\'c9\'8e\'67\'97\'70\'82\'b5\'82\'dc\'82\'b7\'82\'b5\'81\'41Web\'83\'54\'83\'43\'83\'67\'82\'ccphp\'82\'e2html\'91\'bd\'82\'ad\'82\'cc\'8a\'c2\'8b\'ab\'82\'c5\'8d\'cc\'97\'70\'82\'b3\'82\'ea\'82\'dc\'82\'b7\'81\'42\par
 \par
-\'82\'e6\'82\'ad\'90\'cc\'82\'ccWeb\'83\'79\'81\'5b\'83\'57\'82\'cd\'95\'b6\'8e\'9a\'89\'bb\'82\'af\'82\'f0\'82\'b5\'82\'c4\'93\'c7\'82\'df\'82\'c8\'82\'a2\'82\'b1\'82\'c6\'82\'aa\'82\'a0\'82\'e8\'82\'dc\'82\'b5\'82\'bd\'82\'aa\'81\'41\'8c\'bb\'8d\'dd\'82\'bb\'82\'cc\'82\'e6\'82\'a4\'82\'c8\'83\'79\'81\'5b\'83\'57\'82\'f0\'8c\'a9\'82\'e9\'82\'b1\'82\'c6\'82\'cd\'8f\'ad\'82\'c8\'82\'ad\'82\'c8\'82\'e8\'82\'dc\'82\'b5\'82\'bd\'81\'42\par
+\'90\'cc\'82\'ccWeb\'83\'79\'81\'5b\'83\'57\'82\'cd\'95\'b6\'8e\'9a\'89\'bb\'82\'af\'82\'f0\'82\'b5\'82\'c4\'93\'c7\'82\'df\'82\'c8\'82\'a2\'82\'b1\'82\'c6\'82\'aa\'82\'a0\'82\'e8\'82\'dc\'82\'b5\'82\'bd\'82\'aa\'81\'41\'8c\'bb\'8d\'dd\'82\'bb\'82\'cc\'82\'e6\'82\'a4\'82\'c8\'83\'79\'81\'5b\'83\'57\'82\'f0\'8c\'a9\'82\'e9\'82\'b1\'82\'c6\'82\'cd\'8f\'ad\'82\'c8\'82\'ad\'82\'c8\'82\'e8\'82\'dc\'82\'b5\'82\'bd\'81\'42\par
 \'90\'a2\'8a\'45\'92\'86\'82\'cc\'90\'6c\'82\'bd\'82\'bf\'82\'aa\'88\'b5\'82\'a4\'8c\'be\'8c\'ea\'82\'f0\'8d\'6c\'97\'b6\'82\'b5\'82\'bd\'95\'b6\'8e\'9a\'83\'52\'81\'5b\'83\'68\'82\'c6\'82\'c8\'82\'c1\'82\'c4\'82\'a2\'82\'dc\'82\'b7\'82\'cc\'82\'c5\'81\'41OS\'82\'e2\'8c\'be\'8c\'ea\'90\'dd\'92\'e8\'82\'cc\'88\'e1\'82\'a2\'82\'aa\'82\'a0\'82\'c1\'82\'c4\'82\'e0\'95\'b6\'8e\'9a\'82\'aa\'89\'bb\'82\'af\'82\'e9\'82\'b1\'82\'c6\'82\'aa\'82\'c8\'82\'ad\'95\'5c\'8e\'a6\'82\'c5\'82\'ab\'82\'e9\'82\'e6\'82\'a4\'82\'c9\'82\'c8\'82\'c1\'82\'bd\'82\'cc\'82\'c5\'82\'b7\'81\'42\par
+\par
+\'95\'d6\'97\'98\'82\'c9\'82\'c8\'82\'c1\'82\'bd\'82\'cc\'82\'c5\'82\'b7\'82\'aaUTF-\'82\'57\'82\'f0\'8e\'67\'97\'70\'82\'b5\'82\'c4\'82\'a2\'82\'c4\'82\'e0\'92\'8d\'88\'d3\'82\'b7\'82\'e9\'82\'b1\'82\'c6\'82\'aa\'82\'a0\'82\'e8BOM\'82\'c6\'82\'a2\'82\'a4\'8a\'54\'94\'4f\'82\'aa\'82\'a0\'82\'e8\'82\'dc\'82\'b7\'81\'42\'83\'65\'83\'4c\'83\'58\'83\'67\'83\'74\'83\'40\'83\'43\'83\'8b\'82\'cc\'93\'e0\'97\'65\'82\'cc\'95\'b6\'8e\'9a\'83\'52\'81\'5b\'83\'68\'82\'f0UTF-8\'82\'c6\'90\'e9\'8c\'be\'82\'b7\'82\'e9\'83\'52\'81\'5b\'83\'68\'82\'f0\'96\'84\'82\'df\'82\'c4\'83\'65\'83\'4c\'83\'58\'83\'67\'83\'74\'83\'40\'83\'43\'83\'8b\'82\'aa\'82\'c7\'82\'cc\'95\'b6\'8e\'9a\'83\'52\'81\'5b\'83\'68\'82\'f0\'8e\'67\'97\'70\'82\'b5\'82\'c4\'82\'a2\'82\'e9\'82\'a9\'82\'f0\'89\'f0\'90\'cd\'82\'b7\'82\'e9\'8e\'9e\'82\'c9\'8e\'67\'97\'70\'82\'b3\'82\'ea\'82\'dc\'82\'b7\'81\'42\'82\'be\'82\'c1\'82\'bd\'82\'e7\'8b\'f3\'82\'c8\'82\'e7\'82\'b8\'90\'dd\'92\'e8\'82\'b5\'82\'bd\'82\'d9\'82\'a4\'82\'aa\'97\'c7\'82\'a2\'82\'c6\'8e\'76\'82\'ed\'82\'ea\'82\'dc\'82\'b7\'82\'aa\'82\'a0\'82\'c1\'82\'bd\'82\'d9\'82\'a4\'82\'aa\'97\'c7\'82\'a2\'83\'65\'83\'4c\'83\'58\'83\'67\'83\'74\'83\'40\'83\'43\'83\'8b\'82\'c6\'82\'c8\'82\'a2\'82\'d9\'82\'a4\'82\'aa\'97\'c7\'82\'a2\'83\'65\'83\'4c\'83\'58\'83\'67\'83\'74\'83\'40\'83\'43\'83\'8b\'82\'aa\'82\'a0\'82\'e9\'82\'cc\'82\'c5\'92\'8d\'88\'d3\'82\'aa\'95\'4b\'97\'76\'82\'c5\'82\'b7\'81\'42C#\'82\'c5\'83\'5c\'81\'5b\'83\'58\'83\'52\'81\'5b\'83\'68\'82\'f0\'8f\'91\'82\'ad\'8f\'ea\'8d\'87\'82\'cdUTF-8\'82\'c5BOM\'97\'4c\'82\'e8\'82\'c5\'95\'db\'91\'b6\'82\'c5\'8a\'d4\'88\'e1\'82\'a2\'82\'c8\'82\'a2\'82\'c6\'8e\'76\'82\'a2\'82\'dc\'82\'b7\'81\'42\par
 \par
 \par
 - ASCII, UTF-8, Unicode, UCS-4\'82\'cc\'88\'e1\'82\'a2\'82\'c9\'82\'c2\'82\'a2\'82\'c4\par
