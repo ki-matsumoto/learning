@@ -42,9 +42,12 @@ SourctTree のメニュー[ツール]-[オプション]でオプションダイ�
 [以下のページから](https://docs.microsoft.com/ja-jp/visualstudio/install/install-visual-studio?view=vs-2019) Visual Stduio Community 2019のインストール手順通りに作業して下さい。
 <img src="./img/VS2019Install01.png">
 
+以下の画面でCommunityを選択してください。
 <img src="./img/VS2019Install02.png">
 
 
 ## Unity Hub と Unity2019
+
+UnityHubとはUnity様々なバージョンのインストールを管理するのに便利なツールです。Unityは頻繁にバージョンアップされていくので、バージョンを管理する意味でも[Unity をダウンロード](https://unity3d.com/jp/get-unity/download)からUnityHubをインストールしてUnityのインストールやアンインストールの管理をするのをお勧めします。
 
 <img src="./img/Unity2019_01.png">
