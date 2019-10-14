@@ -12,7 +12,7 @@ SEPブートキャンプで使用するソフトウェアの設定やインス�
 ## インターネットブラウザ
 Windowsパソコンを使用していると標準でインストールされている Microsoft Internet エクスプローラーや又は Microsoft Edgeを使用している方は多いと思います。インターネットエクスプローラーは開発や終了していますしEdgeを推奨しているので、新しいパソコンを設定した場合などでメインでインターネットエクスプローラー11を使用するのは避けましょう。
 
-<img src="./img/chrome01.png">
+<img src="./img/Chrome01.png">
 
 何が良いか好みもあると思いますが、[Google Chrome ウェブブラウザ](https://www.google.com/intl/ja_jp/chrome/) をお勧めしておきます。
 プログラマに便利な開発に必要な機能も豊富でとても便利です。
@@ -47,4 +47,4 @@ SourctTree のメニュー[ツール]-[オプション]でオプションダイ�
 
 ## Unity Hub と Unity2019
 
-<img src="./img/unity2019_01.png">
+<img src="./img/Unity2019_01.png">
