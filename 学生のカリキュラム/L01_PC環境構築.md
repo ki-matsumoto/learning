@@ -1,7 +1,7 @@
 # PC環境構築
 
 <div style="text-align: right;">
-2019年10月14日<br>
+2019年10月15日<br>
 株式会社アルファオメガ  松本清明
 </div>
 
