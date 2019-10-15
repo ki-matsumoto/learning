@@ -11,9 +11,9 @@ SEPブートキャンプで使用するソフトウェアのインストール�
 
 
 ## インターネットブラウザ
-Windowsパソコンを使用していると標準でインストールされている Microsoft Internet エクスプローラーや又は Microsoft Edgeを使用している方は多いと思います。インターネットエクスプローラーは開発や終了していますしEdgeを推奨しているので、新しいパソコンを設定した場合などでメインでインターネットエクスプローラー11を使用するのは避けましょう。
+Windowsパソコンを使用していると標準でインストールされている Microsoft Internet エクスプローラーや又は Microsoft Edgeを使用している方は多いと思います。インターネットエクスプローラーは開発や終了していますし、新しいパソコンを設定した場合などでメインでインターネットエクスプローラー11を使用するのは避けましょう。
 
-何が良いか好みもあると思いますが、[Google Chrome ウェブブラウザ](https://www.google.com/intl/ja_jp/chrome/) をお勧めしておきます。
+ある程度は好みで問題ないと思いますが、[Google Chrome ウェブブラウザ](https://www.google.com/intl/ja_jp/chrome/) をお勧めします。
 
 <img src="./img/Chrome01.png">
 
@@ -21,10 +21,57 @@ Chromeはプログラマに便利な開発に必要な機能も豊富でとて�
 マルチプラットフォームデバイスで開発人たちはWindows環境で iOS/Androidの端末にエミュレータして画面の確認をすることもできます。
 
 ## GitHub
-GitHubは Gitのリポジトリを利用できる有名なサービスです。作成したプログラムを世界中に公開するのに便利なことや複数のプログラマと共同で作業する場合にとても便利なサイトとなっています。Gitを使用するのに必ずしもGitHubが必要ではありませんが、プロ黒グラムを共有や公開するのに便利な仕組みとなっていますので利用しましょう。
+[GitHub](https://github.co.jp/)は Gitのリポジトリを利用できる有名なサービスです。作成したプログラムを世界中に公開するのに便利なことや複数のプログラマと共同で作業する場合にとても便利なサイトとなっています。Gitを使用するのに必ずしもGitHubが必要ではありませんが、プロ黒グラムを共有や公開するのに便利な仕組みとなっていますので利用しましょう。
 今回の授業で作成したプログラムはGitHub(Git)にコミットしてもらいプログラムを確認させてもらいます。
 <img src="./img/GitHub01.png">
 
+### GitHubのアカウント登録
+<img src="./img/GitHub02.png">
+
+* username, EMail address, Passwordを決める。
+* Verify accountで馬を回してまっすぐにする。
+* Create an acountボタンを押してください。
+
+### Freeプランの選択
+<img src="./img/GitHub03.png">
+デフォルトで Continueボタンを押す。
+
+
+### 簡単な質問に答える
+
+以下の２つの質問に答える。
+
+What is your level of programming experience? ->
+あなたのプログラミング経験はどの程度ですか？
+
+What do you plan to use GitHub for? (Select up to 3) ->
+GitHubの使用目的は何ですか？ （3つまで選択）
+
+<img src="./img/GitHub04.png">
+
+答えたら Submitボタンを押す。
+
+### Eメールを送った画面
+
+<img src="./img/GitHub05.png">
+
+### 届いたEメール
+<img src="./img/GitHub06.png">
+
+### メールからのリダイレクト
+<img src="./img/GitHub07.png">
+
+### e-メールに届いたデバイス検証コード
+<img src="./img/GitHub09.png">
+
+### デバイス検証コード入力
+<img src="./img/GitHub08.png">
+
+### リポジトリを作成
+<img src="./img/GitHub10.png">
+
+### リポジトリを作成完成
+<img src="./img/GitHub11.png">
 
 ## SourceTree
 

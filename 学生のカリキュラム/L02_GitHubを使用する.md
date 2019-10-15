@@ -11,9 +11,9 @@ sep_bootcampとする
 
 ## cloneする
 
-## git-flow
+## Git Flow
 
-## Visual Studio Community 2019 でC# プロジェクトを作成する
+## Visual StudioでC#プロジェクトを作成する
 
 ## .gitignore ファイルを作成する
 
