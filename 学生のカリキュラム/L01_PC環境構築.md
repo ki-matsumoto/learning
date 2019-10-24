@@ -73,6 +73,8 @@ GitHubの使用目的は何ですか？ （3つまで選択）
 ### リポジトリを作成完成
 <img src="./img/GitHub11.png">
 
+[松本専用のSEPキャンパス・リポジトリができました](https://github.com/matsuo-chan/sep_campus)
+
 ## SourceTree
 
 Gitクライアントソフトで有名な[SourceTree](https://www.sourcetreeapp.com/)をインストールします。
@@ -85,7 +87,7 @@ Gitクライアントソフトで有名な[SourceTree](https://www.sourcetreeapp
 ### ダウンロードしたファイルでインストールする
 SourceTreeSetup-3.2.6.exeがダウンロードできましたのでこちらからインストールします。
 
-[Gitクライアント! SourceTree の使い方 ～GUIでGitを使おう～ | バージョン管理システム入門(初心者向け)](https://tracpath.com/bootcamp/learning_git_sourcetree.html)のページがインストール手順としてわかりやすかったので参考にしてみてください。
+[Gitクライアント! SourceTree の使い方 ～GUIでGitを使おう～ | バージョン管理システム入門(初心者向け)](https://tracpath.com/bootcamp/learning_git_sourcetree.html)のページがインストール手順としてわかりやすかったのでユーザー作成辺りまで参考にして進めてみてください。
 
 ## WinMerge
 WinMergeはファイルの差分を視覚的に確認するツールです。ソースコードの変更点などを確認するのにとても便利なので[WinMergeのサイト](https://winmerge.org/)からダウンロードして使用してみてください。
