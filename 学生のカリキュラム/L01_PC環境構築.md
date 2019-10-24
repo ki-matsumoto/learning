@@ -6,7 +6,7 @@
 </div>
 
 ## はじめに
-SEPブートキャンプで使用するソフトウェアのインストールやユーザー作成の設定を行ってください。
+今回のSEPキャンプで使用するソフトウェアのインストールやユーザー作成の設定を行ってください。
 これ以外でも必要とするソフトはあるかと思いますが、別の授業でインストールをしているかもしれないので省略致します。
 
 
@@ -76,7 +76,14 @@ GitHubの使用目的は何ですか？ （3つまで選択）
 ## SourceTree
 
 Gitクライアントソフトで有名な[SourceTree](https://www.sourcetreeapp.com/)をインストールします。
-<img src="./img/sourcetree01.png">
+<img src="./img/SourceTree01.png">
+
+### ダウングレードの注意
+ライセンスに同意してチェックをつけて Downloadボタンを押します。
+<img src="./img/SourceTree02.png">
+
+### ダウンロードしたファイルでインストールする
+SourceTreeSetup-3.2.6.exeがダウンロードできましたのでこちらからインストールします。
 
 [Gitクライアント! SourceTree の使い方 ～GUIでGitを使おう～ | バージョン管理システム入門(初心者向け)](https://tracpath.com/bootcamp/learning_git_sourcetree.html)のページがインストール手順としてわかりやすかったので参考にしてみてください。
 
