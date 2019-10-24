@@ -1,7 +1,7 @@
 # PC環境構築
 
 <div style="text-align: right;">
-2019年10月15日<br>
+2019年10月25日<br>
 株式会社アルファオメガ  松本清明
 </div>
 
@@ -78,8 +78,8 @@ GitHubの使用目的は何ですか？ （3つまで選択）
 Gitクライアントソフトで有名な[SourceTree](https://www.sourcetreeapp.com/)をインストールします。
 <img src="./img/SourceTree01.png">
 
-### ダウングレードの注意
-ライセンスに同意してチェックをつけて Downloadボタンを押します。
+### ダウンロードの注意
+ライセンスに同意出来ればチェックをつけて Downloadボタンを押します。
 <img src="./img/SourceTree02.png">
 
 ### ダウンロードしたファイルでインストールする
