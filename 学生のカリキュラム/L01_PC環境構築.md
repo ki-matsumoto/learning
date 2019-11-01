@@ -78,6 +78,7 @@ GitHubの使用目的は何ですか？ （3つまで選択）
 ## SourceTree
 
 Gitクライアントソフトで有名な[SourceTree](https://www.sourcetreeapp.com/)をインストールします。
+
 <img src="./img/SourceTree01.png">
 
 ### ダウンロードの注意
