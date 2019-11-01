@@ -17,11 +17,16 @@ GitHubのインストール手順にて作成した リポジトリ名をsep_cam
 
 <img src="./img/L02_002.png">
 
+## README.mdを編集
+
 
 
 ## イデックスに追加する
 
 ## コミットする
+
+
+
 
 
 ## Visual StudioでC#プロジェクトを作成する
