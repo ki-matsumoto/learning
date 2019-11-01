@@ -1,7 +1,7 @@
 # GitHubを使用する
 
 <div style="text-align: right;">
-2019年10月25日<br>
+2019年11月2日<br>
 株式会社アルファオメガ  松本清明
 </div>
 
@@ -17,20 +17,47 @@ GitHubのインストール手順にて作成した リポジトリ名をsep_cam
 
 <img src="./img/L02_002.png">
 
+## Git Flowの初期化
+右上の Git Flowボタンを押して Git Flow用にリポジトリ初期化ダイアログを出してください。
+<img src="./img/L02_003.png">
+
+以下の様にmaster から developが出来て切り替わりました。
+<img src="./img/L02_004.png">
+
 ## README.mdを編集
 
+README.mdの内容
+```
+# sep_campus
 
+授業で作成したプログラムはこのフォルダ以下に保存してください。
+
+```
+このようにテキストエディタで文章を編集してください。
 
 ## イデックスに追加する
+README.mdを選択して選択インデックスに追加ボタンを押します。
+<img src="./img/L02_005.png">
+以下の様に インデックスに追加されました。
+<img src="./img/L02_006.png">
 
 ## コミットする
 
+<img src="./img/L02_007.png">
 
+コミットして Historyを選ぶと以下の様になっています。
+<img src="./img/L02_008.png">
 
+## リモートにプッシュする
+<img src="./img/L02_009.png">
 
+## GitHubの自分ページで変更されているか確認する。
 
 ## Visual StudioでC#プロジェクトを作成する
 
 ## .gitignore ファイルを作成する
 
 コミットしないファイルを決める
+
+
+## 前回の授業で行ったUnityプロジェクトをコミットする
