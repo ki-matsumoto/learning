@@ -25,7 +25,7 @@ DOTween_1_2_305.zipをダウンロードしてくだください。
 
 ## インストール方法
 
-## 新規プロジェクトをつくります
+## UnityHubで新規プロジェクトをつくります
 <img width="480" alt="Unity1" src="img/04/Unity1.png">
 
 ## Unityの起動画面
@@ -34,21 +34,25 @@ DOTween_1_2_305.zipをダウンロードしてくだください。
 ### DOTween_1_2_305.zipの解凍
 - DOTween_1_2_305.zipを展開して出てきたDOTweenフォルダーをUnityプロジェクトの Assetsにコピーします。
 
-### Unityにインポート
 <img width="480" alt="Unity3" src="img/04/Unity3.png">
-- 以下のダイアログが表示されます。
 
+以下のダイアログが表示されます。
+
+### Unityにインポート
 <img width="320" alt="DOTween3" src="img/04/DOTween3.png">
+
 - Open DOTween Unity Panelボタンを押します。
 
 ### DOTween Unity Panel ダイアログ
 <img width="320" alt="DOTween4" src="img/04/DOTween4.png">
-- 緑のボタンのSetup DOTween...を押します。
+
+緑のボタンのSetup DOTween...を押します。
 
 
 ### DOTween Unity Panel ダイアログ
 <img width="320" alt="DOTween5" src="img/04/DOTween5.png">
-- Applyを押します。
+
+Applyを押します。
 これでDOTweenが使用できるようになりました。
 
 
@@ -63,7 +67,7 @@ DOTween_1_2_305.zipをダウンロードしてくだください。
 
 <img width="640" alt="Unity5" src="img/04/Unity5.png">
 
-- 確認しやすいようにカメラを変更します。
+確認しやすいようにカメラを変更します。
 
 例)
 
