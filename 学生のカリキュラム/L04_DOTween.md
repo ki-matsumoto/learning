@@ -61,16 +61,17 @@ Applyを押します。
 ## シーンを作成
 
 ### Plane GameObjectを配置
+UnityEditorのメニューで[GameOjbect]-[3D Object]-[Plane]を選んでPlaneを作成してください。
 <img width="640" alt="Unity4" src="img/04/Unity4.png">
 
+
 ### Plane のマテリアルを変更
-<img width="640" alt="Unity5" src="img/04/Unity5.png">
 
 1. UnityEditorのメニューで[Assets]-[Create]-[Material]を選びます。
+<img width="640" alt="Unity5" src="img/04/Unity5.png">
 1. マテリアル名をNew MaterialからPlaneMaterialに変更します。
 1. マテリアルの色を変えてます。例ではグレーにしました。
 1. Plane GameObjectにドロップして、マテリアルを変更します。
-
 <img width="640" alt="Unity6" src="img/04/Unity6.png">
 
 ### cube GameObjectを配置
@@ -125,7 +126,6 @@ public class Sample : MonoBehaviour {
 ```
 ## ボタンを用意する
 1. UnityEditorのメニューで[GameOjbect]-[UI]-[Button]を選びます。
-1. Placeオブジェクトに埋まっているので cubeのYの高さを0.5あげます。
 <img width="640" alt="Unity8" src="img/04/Unity8.png">
 
 ## Canvasにsample.csスクリプトを割り当てる
@@ -135,12 +135,12 @@ public class Sample : MonoBehaviour {
 
 ## ボタンに関数を割り当てる
 
+画像の赤の部分の様にCanvasのオブジェクトを割り当ててSample.OnButtonDown関数を設定します。
 <img width="640" alt="Unity10" src="img/04/Unity10.png">
-
-- 画像の赤の部分の様にCanvasのオブジェクトを割り当ててSample.OnButtonDown関数を設定します。
 
 ## 動作確認
  UnityEditorで再生ボタンを押します。cubeが動いたでしょうか？
-
+ うまく動作しなかった方は上から手順を見直して下さい。
+ 
 # 最後に
 色々なTweenがありますので、改造して色々な動きを作ってみて下さい。
