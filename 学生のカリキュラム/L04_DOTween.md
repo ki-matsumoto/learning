@@ -72,7 +72,7 @@ UnityEditorのメニューで[GameOjbect]-[3D Object]-[Plane]を選んでPlane�
 1. マテリアル名をNew MaterialからPlaneMaterialに変更します。
 1. マテリアルの色を変えてます。例ではグレーにしました。
 1. Plane GameObjectにドロップして、マテリアルを変更します。
-<img width="640" alt="Unity6" src="img/04/Unity6.png">
+   <img width="640" alt="Unity6" src="img/04/Unity6.png">
 
 ### cube GameObjectを配置
 
