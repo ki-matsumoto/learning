@@ -68,7 +68,7 @@ UnityEditorのメニューで[GameOjbect]-[3D Object]-[Plane]を選んでPlane�
 ### Plane のマテリアルを変更
 
 1. UnityEditorのメニューで[Assets]-[Create]-[Material]を選びます。
-<img width="640" alt="Unity5" src="img/04/Unity5.png">
+   <img width="640" alt="Unity5" src="img/04/Unity5.png">
 1. マテリアル名をNew MaterialからPlaneMaterialに変更します。
 1. マテリアルの色を変えてます。例ではグレーにしました。
 1. Plane GameObjectにドロップして、マテリアルを変更します。
@@ -141,6 +141,6 @@ public class Sample : MonoBehaviour {
 ## 動作確認
  UnityEditorで再生ボタンを押します。cubeが動いたでしょうか？
  うまく動作しなかった方は上から手順を見直して下さい。
- 
+
 # 最後に
 色々なTweenがありますので、改造して色々な動きを作ってみて下さい。
