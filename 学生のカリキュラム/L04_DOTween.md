@@ -26,15 +26,15 @@ DOTween_1_2_305.zipをダウンロードしてくだください。
 ## インストール方法
 
 ## UnityHubで新規プロジェクトをつくります
-<img width="480" alt="Unity1" src="img/04/Unity1.png">
+<img width="640" alt="Unity1" src="img/04/Unity1.png">
 
 ## Unityの起動画面
-<img width="480" alt="Unity2" src="img/04/Unity2.png">
+<img width="640" alt="Unity2" src="img/04/Unity2.png">
 
 ### DOTween_1_2_305.zipの解凍
 - DOTween_1_2_305.zipを展開して出てきたDOTweenフォルダーをUnityプロジェクトの Assetsにコピーします。
 
-<img width="480" alt="Unity3" src="img/04/Unity3.png">
+<img width="640" alt="Unity3" src="img/04/Unity3.png">
 
 以下のダイアログが表示されます。
 
@@ -61,11 +61,26 @@ Applyを押します。
 ## シーンを作成
 
 ### Plane GameObjectを配置
+<img width="640" alt="Unity4" src="img/04/Unity4.png">
+
 ### Plane のマテリアルを変更
+<img width="640" alt="Unity5" src="img/04/Unity5.png">
+
+1. UnityEditorのメニューで[Assets]-[Create]-[Material]を選びます。
+1. マテリアル名をNew MaterialからPlaneMaterialに変更します。
+1. マテリアルの色を変えてます。例ではグレーにしました。
+1. Plane GameObjectにドロップして、マテリアルを変更します。
+
+<img width="640" alt="Unity6" src="img/04/Unity6.png">
+
 ### cube GameObjectを配置
+
+1. UnityEditorのメニューで[GameOjbect]-[3D Object]-[Cube]を選び立方体を作成してください。
+1. Placeオブジェクトに埋まっているので cubeのYの高さを0.5あげます。
+
 ### Cameraを変更
 
-<img width="640" alt="Unity5" src="img/04/Unity5.png">
+<img width="640" alt="Unity7" src="img/04/Unity7.png">
 
 確認しやすいようにカメラを変更します。
 
@@ -78,6 +93,8 @@ Applyを押します。
 |Scale|1|1|1|
 
 ## Sample.csを作成
+以下の様にSample.cs スクリプトを作成してください。
+
 Sample.cs
 ```
 using System.Collections;
@@ -106,18 +123,24 @@ public class Sample : MonoBehaviour {
 	}
 }
 ```
+## ボタンを用意する
+1. UnityEditorのメニューで[GameOjbect]-[UI]-[Button]を選びます。
+1. Placeオブジェクトに埋まっているので cubeのYの高さを0.5あげます。
+<img width="640" alt="Unity8" src="img/04/Unity8.png">
 
 ## Canvasにsample.csスクリプトを割り当てる
-<img width="640" alt="Unity7" src="img/04/Unity7.png">
+<img width="640" alt="Unity9" src="img/04/Unity9.png">
 - 画像の赤の部分の様にCube GameObject のインスタンを設定します。
 
 
 ## ボタンに関数を割り当てる
 
-<img width="640" alt="Unity8" src="img/04/Unity8.png">
+<img width="640" alt="Unity10" src="img/04/Unity10.png">
 
 - 画像の赤の部分の様にCanvasのオブジェクトを割り当ててSample.OnButtonDown関数を設定します。
 
+## 動作確認
+ UnityEditorで再生ボタンを押します。cubeが動いたでしょうか？
 
 # 最後に
 色々なTweenがありますので、改造して色々な動きを作ってみて下さい。
