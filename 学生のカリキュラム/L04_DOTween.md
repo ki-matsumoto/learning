@@ -16,10 +16,11 @@
 ## DOTween アセットのダウンロード
 
 <img width="640" alt="DOTween_Download" src="img/04/DOTween2.png">
+
 [Downloadサイトのリンク](http://dotween.demigiant.com/download.php/)
 
-最新版 v1.2.155(2019/1/16現在)です。
-DOTween_1_2_155.zipをダウンロードしてくだください。
+最新版 v1.2.305(2019/11/13現在)です。
+DOTween_1_2_305.zipをダウンロードしてくだください。
 又はダウンロードしてコピーしてありますので使用してください。
 
 ## インストール方法
@@ -30,8 +31,8 @@ DOTween_1_2_155.zipをダウンロードしてくだください。
 ## Unityの起動画面
 <img width="480" alt="Unity2" src="img/04/Unity2.png">
 
-### DOTween_1_2_155.zipの解凍
-- DOTween_1_2_155.zipを展開して出てきたDOTweenフォルダーをUnityプロジェクトの Assetsにコピーします。
+### DOTween_1_2_305.zipの解凍
+- DOTween_1_2_305.zipを展開して出てきたDOTweenフォルダーをUnityプロジェクトの Assetsにコピーします。
 
 ### Unityにインポート
 <img width="480" alt="Unity3" src="img/04/Unity3.png">
