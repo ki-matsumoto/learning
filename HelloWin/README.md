@@ -7,4 +7,5 @@
 1. プロジェクト名を HelloWinとして 次へ
 1. デスクトップアプリケーション(.exe)
    追加のオプションを 空のプロジェクトを選択
-1. [HelloWin.cpp](./HelloWIn.cpp)を作る
+1. [HelloWin.cpp](./HelloWin.cpp)を作る
+
